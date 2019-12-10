@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/seguthart/.ve/flaskapp/bin/python"
+    "python.pythonPath": "C:\\Users\\sguthart\\.ve\\flaskapp\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
