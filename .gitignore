@@ -2,3 +2,4 @@ venv/
 development/
 .flaskenv
 .env
+logs/
