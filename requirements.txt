@@ -5,7 +5,7 @@ Flask-Mail==0.9.1
 Flask-WTF==0.14.2
 numpy==1.17.4
 pandas==0.25.3
-PyJWT==1.7.1
+PyJWT==2.4.0
 uvicorn==0.10.8
 Werkzeug==0.16.0
 WTForms==2.2.1
